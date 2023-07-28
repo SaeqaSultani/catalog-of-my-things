@@ -31,7 +31,6 @@ Open the command prompt in this directory.
 
 ### Setup
 Clone repository
-
 ```
 git clone https://github.com/fullstop125/catalog-of-my-things.git
 ```
@@ -62,11 +61,9 @@ ruby main.rb
 ## To run tests for the application 
 
 on the command prompt 
-
 ```
 rspec
 ```
-
 ## Authors
 
 👤 **Ahmad Zaki Yousufi**
