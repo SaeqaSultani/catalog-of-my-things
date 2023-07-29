@@ -22,7 +22,6 @@ No live demo
 
 Click [here](https://drive.google.com/file/d/1xAS7NzLmWf4GhX3meFVXAUX_q0kVYJIr/view?usp=share_link) to see video presentation
 
-
 ## Getting Started
 
 Copy this link https://github.com/fullstop125/catalog-of-my-things.git.
@@ -34,7 +33,6 @@ Clone repository
 ```
 git clone https://github.com/fullstop125/catalog-of-my-things.git
 ```
-
 Go to the repository folder in your command prompt
 ```
 cd catalog-of-my-things
