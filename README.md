@@ -9,7 +9,6 @@
 ![](./app_screenshot.JPG)
 
 ## Built With
-
 - Ruby
 - IRB 
 - VS Code 
@@ -43,19 +42,15 @@ Install Ruby using WSL
 
 Install Ubuntu after system restart  
 Run the commands
-
 ```
 bundle install
 ```
-
 ## To run project
 
 on the command prompt 
-
 ```
 ruby main.rb
 ```
-
 ## To run tests for the application 
 
 on the command prompt 
